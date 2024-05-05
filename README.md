@@ -2,6 +2,6 @@
 Material y Solución Reto Hey!Banco - Equipo 404's -  Mesa 13
 
 - Andrés Alarcón Navarro
- - Álvaro Pérez Duhart
+ - Álvaro Duhart Pérez
 - Paola Michelle Martínez Galeazzi 
 - Steffany Mishell Lara Muy
